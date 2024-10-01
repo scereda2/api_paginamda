@@ -1,0 +1,21 @@
+{
+  "categorias": [
+    { "id": 1, "nombre": "Techos" },
+    { "id": 2, "nombre": "Pinturas" },
+    { "id": 3, "nombre": "Aislantes" },
+    { "id": 4, "nombre": "Fenólicos" }
+  ],
+  "productos": [
+    { "id": 1, "nombre": "Rollizos de Eucalipto", "cantidad": 50, "categoriaId": 1 },
+    { "id": 2, "nombre": "Tabla de Pino para Techo", "cantidad": 120, "categoriaId": 1 },
+    { "id": 3, "nombre": "Vigas Laminadas", "cantidad": 75, "categoriaId": 1 },
+    { "id": 4, "nombre": "Alfagia", "cantidad": 200, "categoriaId": 1 },
+    { "id": 5, "nombre": "Todo Riesgo", "cantidad": 60, "categoriaId": 2 },
+    { "id": 6, "nombre": "Impregnantes", "cantidad": 90, "categoriaId": 2 },
+    { "id": 7, "nombre": "Membranas", "cantidad": 30, "categoriaId": 3 },
+    { "id": 8, "nombre": "Aislantes de Aluminio", "cantidad": 45, "categoriaId": 3 },
+    { "id": 9, "nombre": "Ruberoid", "cantidad": 80, "categoriaId": 3 },
+    { "id": 10, "nombre": "Industrial", "cantidad": 100, "categoriaId": 4 },
+    { "id": 11, "nombre": "Una Cara Buena", "cantidad": 150, "categoriaId": 4 }
+  ]
+}
